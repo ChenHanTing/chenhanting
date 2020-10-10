@@ -40,6 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Robot one leg simulink](https://www.youtube.com/watch?v=Z63qzF24Tm0)
+- [Project Simulink](https://www.youtube.com/watch?v=YRI84j5R2oM)
+- [FinalProject](https://www.youtube.com/watch?v=7DJ1GUC96j4)
+- [Record 2014 01 16 23 30 51 229](https://www.youtube.com/watch?v=jjR-Q1Z6Vko)
+- [VB 機器人](https://www.youtube.com/watch?v=DJLq2qw4-X0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
