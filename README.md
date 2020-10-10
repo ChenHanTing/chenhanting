@@ -64,6 +64,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/ChenHanTing/han-main/pull/4) in [ChenHanTing/han-main](https://github.com/ChenHanTing/han-main)
+2. 🎉 Merged PR [#6](https://github.com/ChenHanTing/han-main/pull/6) in [ChenHanTing/han-main](https://github.com/ChenHanTing/han-main)
+3. 🎉 Merged PR [#7](https://github.com/ChenHanTing/han-main/pull/7) in [ChenHanTing/han-main](https://github.com/ChenHanTing/han-main)
+4. 🎉 Merged PR [#8](https://github.com/ChenHanTing/han-main/pull/8) in [ChenHanTing/han-main](https://github.com/ChenHanTing/han-main)
+5. 🎉 Merged PR [#9](https://github.com/ChenHanTing/han-main/pull/9) in [ChenHanTing/han-main](https://github.com/ChenHanTing/han-main)
 <!--END_SECTION:activity-->
 
 </details>
