@@ -5,7 +5,7 @@
 ## I'm a FrontEnd, BackEnd Developer, and Junior!! 😂
 
 - 🔭 This is my recent React Page: [React Han][react-website]!
-- 🔭 This is my recent Rails Page (Haven't updated since 2019): [React Han][rails-website]!
+- 🔭 This is my recent Rails Page (Haven't updated since 2019): [Rails Han][rails-website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Become a mature FullStackr
 - ⚡ Fun fact: I love to dance / pops, and this is my Dancing Video during [2014](https://www.youtube.com/watch?v=pdqxndVPe3w)
@@ -18,14 +18,14 @@
 
 ### Experience:
 
-- JVD (2019.09 - 2020.01)
-- Eslite (2020.02 - until now)
+- 🃋  JVD (2019.09 - 2020.01)
+-  📙Eslite (2020.02 - until now)
 
 ### Certificate:
 
 - 👑 TOEIC (Score: 730)
 
-### What I Do:
+### What I've Done:
 
 - First job
 
@@ -47,7 +47,7 @@
     - Eslite category page
     - Eslite book exhibition page
 
-### What I Learn:
+### What I've Learned:
 
  <img src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> <img src="https://img.shields.io/badge/NuxtJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 
@@ -90,6 +90,10 @@
 
   - Basic Gem like Cancancan, Audited, AASM, Ransack.
   - Adding vue component in rails project.
+
+### Attachment:
+
+- Old Resume (written in Chinese, includes TOEIC certification): [Link](https://han-main.herokuapp.com/resume)
 
 ### Connect with me:
 
@@ -143,12 +147,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [開發時好用工具（Mac）](https://medium.com/@k445566778899k/%E9%96%8B%E7%99%BC%E6%99%82%E5%A5%BD%E7%94%A8%E5%B7%A5%E5%85%B7-mac-2d4ef689e01d?source=rss-5188573b1032------2)
 - [Http 代碼](https://medium.com/@k445566778899k/http-%E4%BB%A3%E7%A2%BC-9531992658d8?source=rss-5188573b1032------2)
-- [Rails 同個 controller 底下不同 action 傳值](https://medium.com/@k445566778899k/rails-%E5%90%8C%E5%80%8Bcontroller%E5%BA%95%E4%B8%8B%E4%B8%8D%E5%90%8Caction%E5%82%B3%E5%80%BC-5a6e9d8322d8?source=rss-5188573b1032------2)
+- [Rails 同個controller底下不同action傳值](https://medium.com/@k445566778899k/rails-%E5%90%8C%E5%80%8Bcontroller%E5%BA%95%E4%B8%8B%E4%B8%8D%E5%90%8Caction%E5%82%B3%E5%80%BC-5a6e9d8322d8?source=rss-5188573b1032------2)
 - [Rails Requests and Params](https://medium.com/@k445566778899k/rails-requests-and-params-6e8bbb9099c1?source=rss-5188573b1032------2)
 - [Proc, Lambda in Ruby](https://medium.com/@k445566778899k/proc-lambda-in-ruby-647f2f429b2c?source=rss-5188573b1032------2)
-- [Vue 2.0 data, computed 介紹](https://medium.com/@k445566778899k/vue-2-0-data-computed%E4%BB%8B%E7%B4%B9-5b0cdac3224f?source=rss-5188573b1032------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@k445566778899k)
