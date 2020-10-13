@@ -146,11 +146,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [側邊欄](https://medium.com/@k445566778899k/%E5%81%B4%E9%82%8A%E6%AC%84-b14591c93185?source=rss-5188573b1032------2)
 - [開發時好用工具（Mac）](https://medium.com/@k445566778899k/%E9%96%8B%E7%99%BC%E6%99%82%E5%A5%BD%E7%94%A8%E5%B7%A5%E5%85%B7-mac-2d4ef689e01d?source=rss-5188573b1032------2)
 - [Http 代碼](https://medium.com/@k445566778899k/http-%E4%BB%A3%E7%A2%BC-9531992658d8?source=rss-5188573b1032------2)
 - [Rails 同個controller底下不同action傳值](https://medium.com/@k445566778899k/rails-%E5%90%8C%E5%80%8Bcontroller%E5%BA%95%E4%B8%8B%E4%B8%8D%E5%90%8Caction%E5%82%B3%E5%80%BC-5a6e9d8322d8?source=rss-5188573b1032------2)
 - [Rails Requests and Params](https://medium.com/@k445566778899k/rails-requests-and-params-6e8bbb9099c1?source=rss-5188573b1032------2)
-- [Proc, Lambda in Ruby](https://medium.com/@k445566778899k/proc-lambda-in-ruby-647f2f429b2c?source=rss-5188573b1032------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@k445566778899k)
