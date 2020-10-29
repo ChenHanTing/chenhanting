@@ -132,11 +132,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [【山賊來襲】恐怖山賊打劫！危機就是轉機！沒買到虧到！ | 反正我很閒](https://www.youtube.com/watch?v=ZNTvgEhzwlU)
 - [Robot one leg simulink](https://www.youtube.com/watch?v=Z63qzF24Tm0)
 - [Project Simulink](https://www.youtube.com/watch?v=YRI84j5R2oM)
 - [FinalProject](https://www.youtube.com/watch?v=7DJ1GUC96j4)
 - [Record 2014 01 16 23 30 51 229](https://www.youtube.com/watch?v=jjR-Q1Z6Vko)
-- [VB Robotic](https://www.youtube.com/watch?v=TAi1BQcevnQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCIHEAKAKCEfEsVMd7FebMuQ?view_as=subscriber)
