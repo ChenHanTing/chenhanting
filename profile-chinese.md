@@ -1,6 +1,16 @@
-### 我是陳漢庭，目前為前、後端工程師
+### 我是陳漢庭，目前為全端工程師
 
 [![Website](https://img.shields.io/website?label=medium.com&style=for-the-badge&url=https%3A%2F%2Fmedium.com)][medium]
+
+### 簡介
+我的後端語言專長為主要為Ruby on Rails，會一點node.js。前端專長主要為Vue和Nuxt，React的部分對Class based的寫法跟現在流行的React Hooks少量的認知，CSS跟美感還在持續培養中。
+
+### 參與專案
+
+- 大型電商的後台管理系統，主要負責客服及訂單的部分
+- 大型電商的後台API：加入收藏，以及活動企劃、精選策展等頁面
+- reCAPTCHA 企業版串接：擁有前台跟後台的經驗
+- 大型電商的廣告版位（首頁、分類頁、書展頁等頁面）
 
 ### 資訊卡
 
@@ -18,17 +28,23 @@
 ### 學歷
 
 - 🏫 松山高中 (2009.09 - 2012.06)
-- 🏫 臺北大學電機系 (2012.09 - 2016.06)
+- 🏫 臺北大學電機系 (2012.09 - 2016.06) 
+ - 專題：PLL鎖相迴路 
+ - 領域：晶片設計、類比電路
 - 🏫 中興大學電機所 (2016.09 - 2019.01)
+ - 論文：基於室內空間照片繪製資料庫：[論文連結](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22107NCHU5441011%22.&searchmode=basic)
+  - 領域：人工智慧、深度學習、遷移學習、SketchUp、Ruby自動化腳本、爬蟲 
 
 ### 經歷
 
-- 🃋  鑫鼎鑽有限公司 (2019.09 - 2020.01)
--  📙誠品生活股份有限公司 (2020.02 - until now)
+- 🃋  鑫鼎鑽有限公司 (2019.09 - 2020.01)：遊戲網站公司
+-  📙誠品生活股份有限公司 (2020.02 - until now)：零售業
 
 ### 證照
 
 - 👑 多益 (Score: 730)
+ - 預計2020年底至2021年初會重考
+ - 機車駕照 
 
 ### 到目前為止做的
 
@@ -51,8 +67,9 @@
     - 誠品首頁
     - 誠品分類頁
     - 誠品書展頁
+       -  網路、實體暢銷榜  
 
-### 目前為止學到的
+### 技能樹
 
  <img src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> <img src="https://img.shields.io/badge/NuxtJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 
@@ -96,9 +113,11 @@
   - Basic Gem like Cancancan, Audited, AASM, Ransack.
   - Adding vue component in rails project.
 
-### 📎
+### 附件📎
 
-- 舊的履歷（多益證書包含在裡面）: [連結](https://han-main.herokuapp.com/resume)
+- 舊的履歷（包含多益證書）: [連結](https://han-main.herokuapp.com/resume)
+- Github：[連結][github]
+- Medium：[連結][medium]
 
 
 ### Languages and Tools:
@@ -146,3 +165,4 @@
 [youtube]: https://www.youtube.com/channel/UCIHEAKAKCEfEsVMd7FebMuQ?view_as=subscriber
 [instagram]: https://www.instagram.com/__hanting__/?hl=zh-tw
 [linkedin]: https://www.linkedin.com/in/%E6%BC%A2%E5%BA%AD-%E9%99%B3-961366189/
+[github]: https://github.com/ChenHanTing

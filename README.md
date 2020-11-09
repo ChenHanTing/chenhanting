@@ -2,13 +2,15 @@
 
 [![Website](https://img.shields.io/website?label=medium.com&style=for-the-badge&url=https%3A%2F%2Fmedium.com)][medium]
 
-## I'm a FrontEnd, BackEnd Developer, and Junior!! 😂
+## Profile (Chinese Version)
+
+- This is my profile for Chinese version. 👉🏻 [link](https://github.com/ChenHanTing/chenhanting/blob/master/profile-chinese.md)
+ 
+## I'm a FullStacker!!
 
 - 🔭 This is my recent React Page: [React Han][react-website]!
 - 🔭 This is my recent Rails Page (Haven't updated since 2019): [Rails Han][rails-website]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Become a mature FullStackr
-- ⚡ Fun fact: I love to dance / pops, and this is my Dancing Video during [2014](https://www.youtube.com/watch?v=pdqxndVPe3w)
+
 
 ### Education:
 
@@ -153,7 +155,7 @@
 - [Rails Requests and Params](https://medium.com/@k445566778899k/rails-requests-and-params-6e8bbb9099c1?source=rss-5188573b1032------2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/@k445566778899k)
+➡️ [more blog posts...](https://medium.com/@chenhanting)
 
 ---
 
