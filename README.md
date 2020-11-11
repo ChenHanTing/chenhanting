@@ -148,6 +148,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Vue] 非同步情境: Tab](https://medium.com/@chenhanting/vue-%E9%9D%9E%E5%90%8C%E6%AD%A5%E6%83%85%E5%A2%83-tab-da927f9b3d53?source=rss-5188573b1032------2)
 - [[Ruby] Block 應用](https://medium.com/@chenhanting/ruby-block-%E6%87%89%E7%94%A8-a95c43f5563a?source=rss-5188573b1032------2)
 - [[SQL] 基本語法初探](https://medium.com/@chenhanting/sql-%E5%9F%BA%E6%9C%AC%E8%AA%9E%E6%B3%95%E5%88%9D%E6%8E%A2-459eb1a11a8b?source=rss-5188573b1032------2)
 - [[Rails] 批次建立資料](https://medium.com/@chenhanting/rails-%E6%89%B9%E6%AC%A1%E5%BB%BA%E7%AB%8B%E8%B3%87%E6%96%99-bdabaf2b185d?source=rss-5188573b1032------2)
@@ -157,7 +158,6 @@
 - [[Tool] Tmux 使用方式](https://medium.com/@chenhanting/tool-tmux-%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F-3ec8f2afabd2?source=rss-5188573b1032------2)
 - [[CSS] 對齊](https://medium.com/@chenhanting/css-%E5%B0%8D%E9%BD%8A-8a41ff4bd033?source=rss-5188573b1032------2)
 - [[Javascript]動態使用methods](https://medium.com/@chenhanting/javascript-%E5%8B%95%E6%85%8B%E4%BD%BF%E7%94%A8methods-f9a82bccbfad?source=rss-5188573b1032------2)
-- [前端趣事](https://medium.com/@chenhanting/%E5%89%8D%E7%AB%AF%E8%B6%A3%E4%BA%8B-545a086a424c?source=rss-5188573b1032------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@chenhanting)
