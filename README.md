@@ -148,6 +148,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Javascript] Object destructuring](https://medium.com/@chenhanting/javascript-object-destructuring-10abbf644d3c?source=rss-5188573b1032------2)
 - [[樣式] 處理畫面高度](https://medium.com/@chenhanting/%E6%A8%A3%E5%BC%8F-%E8%99%95%E7%90%86%E7%95%AB%E9%9D%A2%E9%AB%98%E5%BA%A6-54da230df01?source=rss-5188573b1032------2)
 - [[Vue] 非同步情境: Tab](https://medium.com/@chenhanting/vue-%E9%9D%9E%E5%90%8C%E6%AD%A5%E6%83%85%E5%A2%83-tab-da927f9b3d53?source=rss-5188573b1032------2)
 - [[Ruby] Block 應用](https://medium.com/@chenhanting/ruby-block-%E6%87%89%E7%94%A8-a95c43f5563a?source=rss-5188573b1032------2)
@@ -157,7 +158,6 @@
 - [[CSS] 處理頁籤邊線](https://medium.com/@chenhanting/css-%E8%99%95%E7%90%86%E9%A0%81%E7%B1%A4%E9%82%8A%E7%B7%9A-73ed78aa0d01?source=rss-5188573b1032------2)
 - [[Nuxt] 關於Routes的注意事項](https://medium.com/@chenhanting/nuxt-%E9%97%9C%E6%96%BCroutes%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85-abc9af2f71e3?source=rss-5188573b1032------2)
 - [[Tool] Tmux 使用方式](https://medium.com/@chenhanting/tool-tmux-%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F-3ec8f2afabd2?source=rss-5188573b1032------2)
-- [[CSS] 對齊](https://medium.com/@chenhanting/css-%E5%B0%8D%E9%BD%8A-8a41ff4bd033?source=rss-5188573b1032------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@chenhanting)
