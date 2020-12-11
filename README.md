@@ -148,6 +148,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Vue] A Big DOM change](https://medium.com/@chenhanting/vue-a-big-dom-change-eec9338f6642?source=rss-5188573b1032------2)
 - [[Ruby] Hash 做為](https://medium.com/@chenhanting/ruby-hash-%E5%81%9A%E7%82%BA-4819cc96fb5a?source=rss-5188573b1032------2)
 - [[SQL] 抓取特定資料的更新最晚日期](https://medium.com/@chenhanting/sql-%E6%8A%93%E5%8F%96%E7%89%B9%E5%AE%9A%E8%B3%87%E6%96%99%E7%9A%84%E6%9B%B4%E6%96%B0%E6%9C%80%E6%99%9A%E6%97%A5%E6%9C%9F-df1a0a98d420?source=rss-5188573b1032------2)
 - [[SQL] 刪除價格非最高的商品](https://medium.com/@chenhanting/sql-%E5%88%AA%E9%99%A4%E5%83%B9%E6%A0%BC%E9%9D%9E%E6%9C%80%E9%AB%98%E7%9A%84%E5%95%86%E5%93%81-257b5d5e7b76?source=rss-5188573b1032------2)
@@ -157,7 +158,6 @@
 - [[Ruby] Block 應用](https://medium.com/@chenhanting/ruby-block-%E6%87%89%E7%94%A8-a95c43f5563a?source=rss-5188573b1032------2)
 - [[SQL] 基本語法初探](https://medium.com/@chenhanting/sql-%E5%9F%BA%E6%9C%AC%E8%AA%9E%E6%B3%95%E5%88%9D%E6%8E%A2-459eb1a11a8b?source=rss-5188573b1032------2)
 - [[Rails] 批次建立資料](https://medium.com/@chenhanting/rails-%E6%89%B9%E6%AC%A1%E5%BB%BA%E7%AB%8B%E8%B3%87%E6%96%99-bdabaf2b185d?source=rss-5188573b1032------2)
-- [使用useState, useReducer心得](https://medium.com/@chenhanting/%E4%BD%BF%E7%94%A8usestate-usereducer%E5%BF%83%E5%BE%97-8066b53fa94a?source=rss-5188573b1032------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@chenhanting)
