@@ -148,6 +148,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Mac/Rails] 接手一台新電腦](https://medium.com/@chenhanting/mac-rails-%E6%8E%A5%E6%89%8B%E4%B8%80%E5%8F%B0%E6%96%B0%E9%9B%BB%E8%85%A6-594f8cf310f0?source=rss-5188573b1032------2)
 - [[Vue] A Big DOM change](https://medium.com/@chenhanting/vue-a-big-dom-change-eec9338f6642?source=rss-5188573b1032------2)
 - [[Ruby] Hash 做為](https://medium.com/@chenhanting/ruby-hash-%E5%81%9A%E7%82%BA-4819cc96fb5a?source=rss-5188573b1032------2)
 - [[SQL] 抓取特定資料的更新最晚日期](https://medium.com/@chenhanting/sql-%E6%8A%93%E5%8F%96%E7%89%B9%E5%AE%9A%E8%B3%87%E6%96%99%E7%9A%84%E6%9B%B4%E6%96%B0%E6%9C%80%E6%99%9A%E6%97%A5%E6%9C%9F-df1a0a98d420?source=rss-5188573b1032------2)
@@ -157,7 +158,6 @@
 - [[Vue] 非同步情境: Tab](https://medium.com/@chenhanting/vue-%E9%9D%9E%E5%90%8C%E6%AD%A5%E6%83%85%E5%A2%83-tab-da927f9b3d53?source=rss-5188573b1032------2)
 - [[Ruby] Block 應用](https://medium.com/@chenhanting/ruby-block-%E6%87%89%E7%94%A8-a95c43f5563a?source=rss-5188573b1032------2)
 - [[SQL] 基本語法初探](https://medium.com/@chenhanting/sql-%E5%9F%BA%E6%9C%AC%E8%AA%9E%E6%B3%95%E5%88%9D%E6%8E%A2-459eb1a11a8b?source=rss-5188573b1032------2)
-- [[Rails] 批次建立資料](https://medium.com/@chenhanting/rails-%E6%89%B9%E6%AC%A1%E5%BB%BA%E7%AB%8B%E8%B3%87%E6%96%99-bdabaf2b185d?source=rss-5188573b1032------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@chenhanting)
