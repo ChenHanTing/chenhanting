@@ -148,6 +148,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Stimulus] 搜尋列表頁面](https://medium.com/@chenhanting/stimulus-%E6%90%9C%E5%B0%8B%E5%88%97%E8%A1%A8%E9%A0%81%E9%9D%A2-98e7b45293a3?source=rss-5188573b1032------2)
 - [[Ruby] xml](https://medium.com/@chenhanting/ruby-xml-5f6df10a645d?source=rss-5188573b1032------2)
 - [[Mac/Rails] 接手一台新電腦](https://medium.com/@chenhanting/mac-rails-%E6%8E%A5%E6%89%8B%E4%B8%80%E5%8F%B0%E6%96%B0%E9%9B%BB%E8%85%A6-594f8cf310f0?source=rss-5188573b1032------2)
 - [[Vue] A Big DOM change](https://medium.com/@chenhanting/vue-a-big-dom-change-eec9338f6642?source=rss-5188573b1032------2)
@@ -157,7 +158,6 @@
 - [[Javascript] Object destructuring](https://medium.com/@chenhanting/javascript-object-destructuring-10abbf644d3c?source=rss-5188573b1032------2)
 - [[樣式] 處理畫面高度](https://medium.com/@chenhanting/%E6%A8%A3%E5%BC%8F-%E8%99%95%E7%90%86%E7%95%AB%E9%9D%A2%E9%AB%98%E5%BA%A6-54da230df01?source=rss-5188573b1032------2)
 - [[Vue] 非同步情境: Tab](https://medium.com/@chenhanting/vue-%E9%9D%9E%E5%90%8C%E6%AD%A5%E6%83%85%E5%A2%83-tab-da927f9b3d53?source=rss-5188573b1032------2)
-- [[Ruby] Block 應用](https://medium.com/@chenhanting/ruby-block-%E6%87%89%E7%94%A8-a95c43f5563a?source=rss-5188573b1032------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@chenhanting)
