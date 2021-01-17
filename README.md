@@ -148,6 +148,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Rails] Credentials](https://medium.com/@chenhanting/rails-credentials-5be0b56264c0?source=rss-5188573b1032------2)
+- [[網路] Hinet服務以及PPPoE](https://medium.com/@chenhanting/%E7%B6%B2%E8%B7%AF-hinet%E6%9C%8D%E5%8B%99%E4%BB%A5%E5%8F%8Apppoe-823bc74de9c1?source=rss-5188573b1032------2)
 - [[Stimulus] 搜尋列表頁面](https://medium.com/@chenhanting/stimulus-%E6%90%9C%E5%B0%8B%E5%88%97%E8%A1%A8%E9%A0%81%E9%9D%A2-98e7b45293a3?source=rss-5188573b1032------2)
 - [[Ruby] xml](https://medium.com/@chenhanting/ruby-xml-5f6df10a645d?source=rss-5188573b1032------2)
 - [[Mac/Rails] 接手一台新電腦](https://medium.com/@chenhanting/mac-rails-%E6%8E%A5%E6%89%8B%E4%B8%80%E5%8F%B0%E6%96%B0%E9%9B%BB%E8%85%A6-594f8cf310f0?source=rss-5188573b1032------2)
@@ -156,8 +158,6 @@
 - [[SQL] 抓取特定資料的更新最晚日期](https://medium.com/@chenhanting/sql-%E6%8A%93%E5%8F%96%E7%89%B9%E5%AE%9A%E8%B3%87%E6%96%99%E7%9A%84%E6%9B%B4%E6%96%B0%E6%9C%80%E6%99%9A%E6%97%A5%E6%9C%9F-df1a0a98d420?source=rss-5188573b1032------2)
 - [[SQL] 刪除價格非最高的商品](https://medium.com/@chenhanting/sql-%E5%88%AA%E9%99%A4%E5%83%B9%E6%A0%BC%E9%9D%9E%E6%9C%80%E9%AB%98%E7%9A%84%E5%95%86%E5%93%81-257b5d5e7b76?source=rss-5188573b1032------2)
 - [[Javascript] Object destructuring](https://medium.com/@chenhanting/javascript-object-destructuring-10abbf644d3c?source=rss-5188573b1032------2)
-- [[樣式] 處理畫面高度](https://medium.com/@chenhanting/%E6%A8%A3%E5%BC%8F-%E8%99%95%E7%90%86%E7%95%AB%E9%9D%A2%E9%AB%98%E5%BA%A6-54da230df01?source=rss-5188573b1032------2)
-- [[Vue] 非同步情境: Tab](https://medium.com/@chenhanting/vue-%E9%9D%9E%E5%90%8C%E6%AD%A5%E6%83%85%E5%A2%83-tab-da927f9b3d53?source=rss-5188573b1032------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@chenhanting)
