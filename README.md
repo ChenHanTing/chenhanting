@@ -148,16 +148,16 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Stimulus] 表單及搜尋](https://medium.com/@chenhanting/stimulus-%E8%A1%A8%E5%96%AE%E5%8F%8A%E6%90%9C%E5%B0%8B-11a5650e27c4?source=rss-5188573b1032------2)
+- [[Ruby] 三個條件一次滿足](https://medium.com/@chenhanting/ruby-%E4%B8%89%E5%80%8B%E6%A2%9D%E4%BB%B6%E4%B8%80%E6%AC%A1%E6%BB%BF%E8%B6%B3-de9dc7d0386b?source=rss-5188573b1032------2)
 - [[Rails] Credentials](https://medium.com/@chenhanting/rails-credentials-5be0b56264c0?source=rss-5188573b1032------2)
 - [[網路] Hinet服務以及PPPoE](https://medium.com/@chenhanting/%E7%B6%B2%E8%B7%AF-hinet%E6%9C%8D%E5%8B%99%E4%BB%A5%E5%8F%8Apppoe-823bc74de9c1?source=rss-5188573b1032------2)
 - [[Stimulus] 搜尋列表頁面](https://medium.com/@chenhanting/stimulus-%E6%90%9C%E5%B0%8B%E5%88%97%E8%A1%A8%E9%A0%81%E9%9D%A2-98e7b45293a3?source=rss-5188573b1032------2)
 - [[Ruby] xml](https://medium.com/@chenhanting/ruby-xml-5f6df10a645d?source=rss-5188573b1032------2)
 - [[Mac/Rails] 接手一台新電腦](https://medium.com/@chenhanting/mac-rails-%E6%8E%A5%E6%89%8B%E4%B8%80%E5%8F%B0%E6%96%B0%E9%9B%BB%E8%85%A6-594f8cf310f0?source=rss-5188573b1032------2)
 - [[Vue] A Big DOM change](https://medium.com/@chenhanting/vue-a-big-dom-change-eec9338f6642?source=rss-5188573b1032------2)
-- [[Ruby] Hash 做為](https://medium.com/@chenhanting/ruby-hash-%E5%81%9A%E7%82%BA-4819cc96fb5a?source=rss-5188573b1032------2)
 - [[SQL] 抓取特定資料的更新最晚日期](https://medium.com/@chenhanting/sql-%E6%8A%93%E5%8F%96%E7%89%B9%E5%AE%9A%E8%B3%87%E6%96%99%E7%9A%84%E6%9B%B4%E6%96%B0%E6%9C%80%E6%99%9A%E6%97%A5%E6%9C%9F-df1a0a98d420?source=rss-5188573b1032------2)
 - [[SQL] 刪除價格非最高的商品](https://medium.com/@chenhanting/sql-%E5%88%AA%E9%99%A4%E5%83%B9%E6%A0%BC%E9%9D%9E%E6%9C%80%E9%AB%98%E7%9A%84%E5%95%86%E5%93%81-257b5d5e7b76?source=rss-5188573b1032------2)
-- [[Javascript] Object destructuring](https://medium.com/@chenhanting/javascript-object-destructuring-10abbf644d3c?source=rss-5188573b1032------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@chenhanting)
