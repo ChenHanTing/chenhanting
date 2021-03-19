@@ -148,16 +148,16 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[React/Rails] 台灣區縣市、區域的下拉選單](https://medium.com/@chenhanting/react-rails-%E5%8F%B0%E7%81%A3%E5%8D%80%E7%B8%A3%E5%B8%82-%E5%8D%80%E5%9F%9F%E7%9A%84%E4%B8%8B%E6%8B%89%E9%81%B8%E5%96%AE-ffe75285a443?source=rss-5188573b1032------2)
-- [[Rails] Block裡面寫Block](https://medium.com/@chenhanting/rails-block%E8%A3%A1%E9%9D%A2%E5%AF%ABblock-f1c87bd46c1d?source=rss-5188573b1032------2)
-- [[Stimulus] dataTable + 彈跳視窗](https://medium.com/@chenhanting/stimulus-datatable-%E5%BD%88%E8%B7%B3%E8%A6%96%E7%AA%97-9d867dec0b14?source=rss-5188573b1032------2)
-- [[Stimulus] 表單及搜尋](https://medium.com/@chenhanting/stimulus-%E8%A1%A8%E5%96%AE%E5%8F%8A%E6%90%9C%E5%B0%8B-11a5650e27c4?source=rss-5188573b1032------2)
-- [[Ruby] 三個條件一次滿足](https://medium.com/@chenhanting/ruby-%E4%B8%89%E5%80%8B%E6%A2%9D%E4%BB%B6%E4%B8%80%E6%AC%A1%E6%BB%BF%E8%B6%B3-de9dc7d0386b?source=rss-5188573b1032------2)
-- [[Rails] Credentials](https://medium.com/@chenhanting/rails-credentials-5be0b56264c0?source=rss-5188573b1032------2)
-- [[網路] Hinet服務以及PPPoE](https://medium.com/@chenhanting/%E7%B6%B2%E8%B7%AF-hinet%E6%9C%8D%E5%8B%99%E4%BB%A5%E5%8F%8Apppoe-823bc74de9c1?source=rss-5188573b1032------2)
-- [[Stimulus] 搜尋列表頁面](https://medium.com/@chenhanting/stimulus-%E6%90%9C%E5%B0%8B%E5%88%97%E8%A1%A8%E9%A0%81%E9%9D%A2-98e7b45293a3?source=rss-5188573b1032------2)
-- [[Ruby] xml](https://medium.com/@chenhanting/ruby-xml-5f6df10a645d?source=rss-5188573b1032------2)
-- [[Mac/Rails] 接手一台新電腦](https://medium.com/@chenhanting/mac-rails-%E6%8E%A5%E6%89%8B%E4%B8%80%E5%8F%B0%E6%96%B0%E9%9B%BB%E8%85%A6-594f8cf310f0?source=rss-5188573b1032------2)
+- [[React/Rails] 台灣區縣市、區域的下拉選單](https://chenhanting.medium.com/react-rails-%E5%8F%B0%E7%81%A3%E5%8D%80%E7%B8%A3%E5%B8%82-%E5%8D%80%E5%9F%9F%E7%9A%84%E4%B8%8B%E6%8B%89%E9%81%B8%E5%96%AE-ffe75285a443?source=rss-5188573b1032------2)
+- [[Rails] Block裡面寫Block](https://chenhanting.medium.com/rails-block%E8%A3%A1%E9%9D%A2%E5%AF%ABblock-f1c87bd46c1d?source=rss-5188573b1032------2)
+- [[Stimulus] dataTable + 彈跳視窗](https://chenhanting.medium.com/stimulus-datatable-%E5%BD%88%E8%B7%B3%E8%A6%96%E7%AA%97-9d867dec0b14?source=rss-5188573b1032------2)
+- [[Stimulus] 表單及搜尋](https://chenhanting.medium.com/stimulus-%E8%A1%A8%E5%96%AE%E5%8F%8A%E6%90%9C%E5%B0%8B-11a5650e27c4?source=rss-5188573b1032------2)
+- [[Ruby] 三個條件一次滿足](https://chenhanting.medium.com/ruby-%E4%B8%89%E5%80%8B%E6%A2%9D%E4%BB%B6%E4%B8%80%E6%AC%A1%E6%BB%BF%E8%B6%B3-de9dc7d0386b?source=rss-5188573b1032------2)
+- [[Rails] Credentials](https://chenhanting.medium.com/rails-credentials-5be0b56264c0?source=rss-5188573b1032------2)
+- [[網路] Hinet服務以及PPPoE](https://chenhanting.medium.com/%E7%B6%B2%E8%B7%AF-hinet%E6%9C%8D%E5%8B%99%E4%BB%A5%E5%8F%8Apppoe-823bc74de9c1?source=rss-5188573b1032------2)
+- [[Stimulus] 搜尋列表頁面](https://chenhanting.medium.com/stimulus-%E6%90%9C%E5%B0%8B%E5%88%97%E8%A1%A8%E9%A0%81%E9%9D%A2-98e7b45293a3?source=rss-5188573b1032------2)
+- [[Ruby] xml](https://chenhanting.medium.com/ruby-xml-5f6df10a645d?source=rss-5188573b1032------2)
+- [[Mac/Rails] 接手一台新電腦](https://chenhanting.medium.com/mac-rails-%E6%8E%A5%E6%89%8B%E4%B8%80%E5%8F%B0%E6%96%B0%E9%9B%BB%E8%85%A6-594f8cf310f0?source=rss-5188573b1032------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@chenhanting)
