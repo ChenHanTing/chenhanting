@@ -148,6 +148,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ruby on Docker](https://chenhanting.medium.com/ruby-on-docker-9c0e75acafc4?source=rss-5188573b1032------2)
 - [[Rails] 部署](https://chenhanting.medium.com/rails-%E9%83%A8%E7%BD%B2-b304de852579?source=rss-5188573b1032------2)
 - [網站](https://chenhanting.medium.com/%E7%B6%B2%E7%AB%99-7c872ed7e5dd?source=rss-5188573b1032------2)
 - [[崎] 109學年度10校展覽](https://chenhanting.medium.com/%E5%B4%8E-109%E5%AD%B8%E5%B9%B4%E5%BA%A610%E6%A0%A1%E5%B1%95%E8%A6%BD-8f51f01cc8bd?source=rss-5188573b1032------2)
@@ -157,7 +158,6 @@
 - [[Stimulus] 表單及搜尋](https://chenhanting.medium.com/stimulus-%E8%A1%A8%E5%96%AE%E5%8F%8A%E6%90%9C%E5%B0%8B-11a5650e27c4?source=rss-5188573b1032------2)
 - [[Ruby] 三個條件一次滿足](https://chenhanting.medium.com/ruby-%E4%B8%89%E5%80%8B%E6%A2%9D%E4%BB%B6%E4%B8%80%E6%AC%A1%E6%BB%BF%E8%B6%B3-de9dc7d0386b?source=rss-5188573b1032------2)
 - [[Rails] Credentials](https://chenhanting.medium.com/rails-credentials-5be0b56264c0?source=rss-5188573b1032------2)
-- [[網路] Hinet服務以及PPPoE](https://chenhanting.medium.com/%E7%B6%B2%E8%B7%AF-hinet%E6%9C%8D%E5%8B%99%E4%BB%A5%E5%8F%8Apppoe-823bc74de9c1?source=rss-5188573b1032------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@chenhanting)
