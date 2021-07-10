@@ -1,11 +1,15 @@
 ### Hi there, I'm Chenhanting
 
-[![Website](https://img.shields.io/website?label=medium.com&style=for-the-badge&url=https%3A%2F%2Fmedium.com)][medium]
+[![Website](https://img.shields.io/website?label=medium.com&style=for-the-badge&url=https%3A%2F%2Fmedium.com)][medium]![Website](https://img.shields.io/website?style=for-the-badge&up_color=blue&up_message=profile&url=https%3A%2F%2Fhan-react.netlify.app%2Fsweat-nonstop%2Findex)![Website](https://img.shields.io/website?style=for-the-badge&up_color=blue&up_message=tutorial&url=https%3A%2F%2Fhan-react.netlify.app%2Fnotes%2Ftutorial-introduction)
+
+![Website](https://img.shields.io/website?style=for-the-badge&up_color=yellow&up_message=javascript&url=https%3A%2F%2Fhan-react.netlify.app%2Fnotes%2Fjs-basic)![Website](https://img.shields.io/website?style=for-the-badge&up_color=yellow&up_message=react&url=https%3A%2F%2Fhan-react.netlify.app%2Fnotes%2Freact-basic)![Website](https://img.shields.io/website?style=for-the-badge&up_color=yellow&up_message=nuxt&url=https%3A%2F%2Fhan-react.netlify.app%2Fnotes%2Fnuxt-10schools)![Website](https://img.shields.io/website?style=for-the-badge&up_color=yellow&up_message=css&url=https%3A%2F%2Fhan-react.netlify.app%2Fnotes%2Fcss-center)![Website](https://img.shields.io/website?style=for-the-badge&up_color=yellow&up_message=frontend&url=https%3A%2F%2Fhan-react.netlify.app%2Fnotes%2FfrontEnd-lookGood2See)![Website](https://img.shields.io/website?style=for-the-badge&up_color=yellow&up_message=html&url=https%3A%2F%2Fhan-react.netlify.app%2Fnotes%2Fhtml-basic)
+
+[![Website](https://img.shields.io/website?style=for-the-badge&up_color=red&up_message=rails&url=https%3A%2F%2Fhan-react.netlify.app%2Fnotes%2Frails-migration)]()
 
 ## Profile (Chinese Version)
 
 - This is my profile for Chinese version. 👉🏻 [link](https://github.com/ChenHanTing/chenhanting/blob/master/profile-chinese.md)
- 
+
 ## I'm a FullStacker!!
 
 - 🔭 This is my recent React Page: [React Han][react-website]!
@@ -21,15 +25,19 @@
 ### Experience:
 
 - 🃋  JVD (2019.09 - 2020.01)
--  📙Eslite (2020.02 - until now)
+-  📙Eslite (2020.02 - 2021.01)
+-  🃋  Liteshop (2021.01 - until now)
 
 ### Certificate:
 
 - 👑 TOEIC (Score: 730)
+- ⭐️LinkedIn certificate: 
+
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gsc9frfkjgj312q0u015s.jpg)
 
 ### What I've Done:
 
-- First job
+- First job: rails+jquery
 
   - UI for game lobby
   - Docking and refactor with some games (with API), including sign in, sign up, credit, billing, ckeckout.
@@ -38,16 +46,32 @@
   Check out [here](https://github.com/ChenHanTing/jvd-note) if you want to see more what I do in my first job.
 
 - Second Job
-  - Backend:
+  - Backend: rails+vue
     - Import a bunch of category data using rake and roo.
     - (Admin) Some CRUD in customer service.
     - (Admin) Create and split orders
     - (API) Wish list API
     - (Admin+API) reCAPTCHA
-  - Frontend
+  - Frontend: vue
     - Eslite home page
     - Eslite category page
     - Eslite book exhibition page
+  
+- Third Job: react and rails 
+
+  - admin orders, customers, admin users crud
+  - Return order api and admin operation
+  - GreenWorld api - Third party payment
+    - Invoice
+    - Payment
+  - SF express api
+  - deploy on gcp
+
+- Personal
+
+  - Electron app using vue+nuxt+pug
+  - Static website using vue+pug
+  - My personal website using react
 
 ### What I've Learned:
 
