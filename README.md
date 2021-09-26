@@ -158,11 +158,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How To Make A Website With Animated Text Effect Using HTML And CSS](https://www.youtube.com/watch?v=rc50owRPdUI)
 - [Robot one leg simulink](https://www.youtube.com/watch?v=Z63qzF24Tm0)
 - [Project Simulink](https://www.youtube.com/watch?v=YRI84j5R2oM)
 - [FinalProject](https://www.youtube.com/watch?v=7DJ1GUC96j4)
 - [Record 2014 01 16 23 30 51 229](https://www.youtube.com/watch?v=jjR-Q1Z6Vko)
-- [VB Robotic](https://www.youtube.com/watch?v=TAi1BQcevnQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCIHEAKAKCEfEsVMd7FebMuQ?view_as=subscriber)
