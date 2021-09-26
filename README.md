@@ -161,8 +161,8 @@
 - [How To Make A Website With Animated Text Effect Using HTML And CSS](https://www.youtube.com/watch?v=rc50owRPdUI)
 - [How To Make Complete Website Using HTML And CSS | Responsive Website Tutorial](https://www.youtube.com/watch?v=zmun7JzWGPE)
 - [How To Make Complete Website Using HTML And CSS | Responsive Website Tutorial](https://www.youtube.com/watch?v=zmun7JzWGPE)
+- [Episode #098 - Polymorphic Associations](https://www.youtube.com/watch?v=qF51M95YnaA)
 - [Robot one leg simulink](https://www.youtube.com/watch?v=Z63qzF24Tm0)
-- [Project Simulink](https://www.youtube.com/watch?v=YRI84j5R2oM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCIHEAKAKCEfEsVMd7FebMuQ?view_as=subscriber)
