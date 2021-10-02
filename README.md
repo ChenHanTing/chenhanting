@@ -181,7 +181,6 @@
 - [[Stimulus] dataTable + 彈跳視窗](https://chenhanting.medium.com/stimulus-datatable-%E5%BD%88%E8%B7%B3%E8%A6%96%E7%AA%97-9d867dec0b14?source=rss-5188573b1032------2)
 - [[Stimulus] 表單及搜尋](https://chenhanting.medium.com/stimulus-%E8%A1%A8%E5%96%AE%E5%8F%8A%E6%90%9C%E5%B0%8B-11a5650e27c4?source=rss-5188573b1032------2)
 - [[Ruby] 三個條件一次滿足](https://chenhanting.medium.com/ruby-%E4%B8%89%E5%80%8B%E6%A2%9D%E4%BB%B6%E4%B8%80%E6%AC%A1%E6%BB%BF%E8%B6%B3-de9dc7d0386b?source=rss-5188573b1032------2)
-- [[Rails] Credentials](https://chenhanting.medium.com/rails-credentials-5be0b56264c0?source=rss-5188573b1032------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@chenhanting)
