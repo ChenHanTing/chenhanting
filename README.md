@@ -160,9 +160,9 @@
 <!-- YOUTUBE:START -->
 - [How To Make A Website With Animated Text Effect Using HTML And CSS](https://www.youtube.com/watch?v=rc50owRPdUI)
 - [Module Bundlers Explained... Webpack, Rollup, Parcel, and Snowpack](https://www.youtube.com/watch?v=5IG4UmULyoA)
-- [Module Bundlers Explained... Webpack, Rollup, Parcel, and Snowpack](https://www.youtube.com/watch?v=5IG4UmULyoA)
 - [How To Make Complete Website Using HTML And CSS | Responsive Website Tutorial](https://www.youtube.com/watch?v=zmun7JzWGPE)
-- [How To Make Complete Website Using HTML And CSS | Responsive Website Tutorial](https://www.youtube.com/watch?v=zmun7JzWGPE)
+- [Episode #098 - Polymorphic Associations](https://www.youtube.com/watch?v=qF51M95YnaA)
+- [Robot one leg simulink](https://www.youtube.com/watch?v=Z63qzF24Tm0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCIHEAKAKCEfEsVMd7FebMuQ?view_as=subscriber)
