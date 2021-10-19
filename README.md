@@ -162,7 +162,7 @@
 - [How To Make A Website With Animated Text Effect Using HTML And CSS](https://www.youtube.com/watch?v=rc50owRPdUI)
 - [Module Bundlers Explained... Webpack, Rollup, Parcel, and Snowpack](https://www.youtube.com/watch?v=5IG4UmULyoA)
 - [How To Make Complete Website Using HTML And CSS | Responsive Website Tutorial](https://www.youtube.com/watch?v=zmun7JzWGPE)
-- [Episode #098 - Polymorphic Associations](https://www.youtube.com/watch?v=qF51M95YnaA)
+- [Nest.js with MongoDB - Complete Example](https://www.youtube.com/watch?v=ulfU5vY6I78)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCIHEAKAKCEfEsVMd7FebMuQ?view_as=subscriber)
